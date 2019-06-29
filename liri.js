@@ -1,4 +1,4 @@
-//Read and set any environment variables with the .env package.// Require npm to link to keys
+// npm link keys
 require("dotenv").config();
 
 // Require the key.js file 
